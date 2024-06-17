@@ -1,0 +1,29 @@
+1.B,C,D
+2.C
+3.C
+4.A,C,D
+5.La llave primaria es el identificador unico de una entidad y la llave foranea es el identificador unico de una entidad en otra entidad.
+6.B
+7.La herencia es la capacidad que tiene una entidad (subtipo o hijo) de heredar una o mas propiedades de un supertipo (padre), graficamente se representa con un triangulo en el que la parte superior es el padre y la parte inferior son los hijos, conectados por lineas
+8.C
+9.A,B,C
+10.Afecta en su diseño y disposiciòn dependiendo de los requerimientos no funcionales o logica del negocio. Un ejemplo podrìa ser en una biblioteca, que determine que un usuario puede pedir prestado maximo hasta 3 libros,el impacto en la relaciòn de la entidad usuario y prestamos serìa 1 a muchos porque el usuario puede pedir prestado varios libros (3) pero la restricciòn serìa de 3 libros agregando un atributo de numero maximo de libros prestados.
+11.C
+12.A,B,C
+13.B
+14.La maxima importancia que le veo a un diagrama ER es el diseño de la arquitectura de la informaciòn y disposiciòn de las entidades con sus respectivas entidades, atributos y relaciònes para darnos un panorama general y el diseño de la estructura de nuestra base de datos.
+15.A
+16.C,D
+17.C
+18.C
+19.Una relaciòn identificativa se usa para darle vida por asi decirlo a una entidad debil. Esta entidad debil no puede ser identificada claramente con sus atributos por lo que necesita otra entidad que actùa como identificador. Un ejemplo de esta relaciòn es: Una entidad edificio y una entidad oficina, la oficina se identifica por el numero y su piso. Sin embargo , no podrìamos identificarla sin saber a que edificio pertenece, por lo tanto, necesitamos una relaciòn identificadora, en la que el edificio actua como identificador y el numero y la planta de la oficina como discriminantes. En la relacciòn no identificativa es en la que "el hijo" puede ser identificada independientemente del "padre" , un ejemplo es una entidad flor y otra llamada tipo de flor, esta ultima es no identificativa porque cada tipo de flor puede ser identificado sin necesidad que exista en la tabla flor.
+20.A,C,D,E
+21.A 
+22.B,C,D,E
+23.La cardinalidad denota el numero de ocurrencias de una entidad de datos en relaciòn a otra entidad, esta tambien especifica el numero màximo de relaciones entre ambas entidades.
+24.C
+25.A,C,E
+26.D
+27.
+28.C
+29.A,C
